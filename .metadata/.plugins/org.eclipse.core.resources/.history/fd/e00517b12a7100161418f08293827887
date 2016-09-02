@@ -12,34 +12,14 @@ public class Calculate {
 		answer=number*number*number;
 		return(answer);
 	}
-	public static int average(int number1 ,int number2){
+	public static in average(int number1 ,int number2){
 			int answer;
-			answer=(number1+number2)/2;
+			answer=(number1+number)/2;
 			return(answer);
-	}
 			
 	public static int average(int number1, int number2,int number3){
 		int answer;
 		answer=(number1+number2+number3)/3;
 		return(answer);
+	
 	}
-	
-	public static double toDegrees(double radian){
-		double answer;
-		answer=(180/3.14159);
-		return(answer);
-	}
-	
-	
-	public static double toRadians(double degrees){
-		double answer;
-		answer=(3.14159/180);
-		return(answer);
-	}
-}
-
-	public static double discriminant(double num1,num2,num3){
-
-	
-
-	

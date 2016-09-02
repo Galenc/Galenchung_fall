@@ -38,8 +38,6 @@ public class Calculate {
 	}
 }
 
-	public static double discriminant(double num1,num2,num3){
-
 	
 
 	
