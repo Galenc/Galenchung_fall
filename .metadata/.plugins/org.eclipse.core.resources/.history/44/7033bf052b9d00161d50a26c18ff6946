@@ -1,0 +1,11 @@
+
+public class LotsOfCopies {
+	public static void main(string[] args)
+	{
+		int num = 7;
+		string strMain = "APCS";
+		int[] arrMain = {1,2,3,4,5};
+				
+	}
+}
+          
